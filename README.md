@@ -22,12 +22,12 @@ Train : 24장 , Valid : 3 , Test : 3
 과제는 model.py에서만 진행하시면 됩니다.
 
 ### Task 1
-해당 모델은 기존의 Unet과 달리 572 x 572 이미지가 아닌 **512 x 512가 Input으로 들어가고, Output도 512 x 512로** 나오도록 재구성되었습니다.
+해당 모델은 기존의 Unet과 달리 572 x 572 이미지가 아닌 **512 x 512가 Input으로 들어가고, Output도 512 x 512로** 나오도록 재구성되었습니다. 
 
 - Q) 그렇다면 어느 부분이 변경되어서 Output size가 Input Size와 동일하게 나왔는지 찾아주세요.
 
 ### Task 2
-`modle.py`에서 주석으로 남겨진 빈칸 부분을 채워주세요! , 참고로 EM Segmentation Dataset은 **Class가 2개**입니다.
+`modle.py`에서 주석으로 남겨진 빈칸 부분을 채워주세요! , 참고로 EM Segmentation Dataset은 **Class가 2개**이며 논문의 U-net구조와 채널사이즈는 모두 동일합니다.
 
 **위의 과제들을 다 진행해주시고 평가가 완료된 사진과 `./result` 폴더에서 Output 한장을 노션에 올려주세요**
 
