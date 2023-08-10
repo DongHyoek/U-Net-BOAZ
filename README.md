@@ -32,7 +32,7 @@ Train : 24장 , Valid : 3 , Test : 3
 **위의 과제들을 다 진행해주시고 평가가 완료된 사진과 `./result` 폴더에서 Output 한장을 노션에 올려주세요**
 
 #### 학습 및 평가 완료 예시 사진
-![img1](https://github.com/DongHyoek/U-Net-BOAZ/blob/main/png/image-1.png) ![img2](https://github.com/DongHyoek/U-Net-BOAZ/blob/main/png/image-1.png)
+![img1](https://github.com/DongHyoek/U-Net-BOAZ/blob/main/png/image.png) ![img2](https://github.com/DongHyoek/U-Net-BOAZ/blob/main/png/image-1.png)
 
 #### Segmentation Output 예시 사진
 ![img3](https://github.com/DongHyoek/U-Net-BOAZ/blob/main/png/output_0000.png)
